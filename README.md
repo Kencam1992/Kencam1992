@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kencam1992&label=Profile%20views&color=0e75b6&style=flat" alt="kencam1992" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently recapping **Ruby & Javascript**
 
 ![spiderman](https://user-images.githubusercontent.com/90114396/145062388-14a2d6c5-1f58-4b78-aab1-abc8263a1a8c.gif)
 
