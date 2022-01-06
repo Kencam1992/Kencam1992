@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenneth Shane Campbell</h1>
 <h3 align="center">A passionate full stack developer from London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kencam1992&label=Profile%20views&color=0e75b6&style=flat" alt="kencam1992" /> </p>
 
 - 🌱 I’m currently recapping **Ruby & Javascript**
 
